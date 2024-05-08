@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodyMSm
+- 👋 Hi, I’m Cody
 - 👀 I’m interested in entering the field as a programmer
 - 🌱 I’m currently learning Java, having earned my Information Technology Specialist Certification for Java
 - 💞️ I’m not looking to collaborate on anything at the moment, but if you have a job opprotunity, please reach out to me
