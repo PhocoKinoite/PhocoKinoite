@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phoco
-- 👀 I’m interested in entering the field of cybersecurity
+- 👀 I like making video games (when I have the time)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: at one point, I lived with three parrots
+- ⚡ Fun fact: The first game I made was a platformer
   
 <!---
 PhocoKinoite/PhocoKinoite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
