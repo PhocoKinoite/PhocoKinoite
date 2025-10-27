@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cody
+- 👋 Hi, I’m Phoco
 - 👀 I’m interested in entering the field as a programmer
 - 🌱 I’m currently learning Java, having earned my Information Technology Specialist Certification for Java
 - 💞️ I’m not experienced with colaboration, but I could be of some help.
